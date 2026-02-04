@@ -1,3 +1,4 @@
+Si vous n'arrivez pas à lancer le fichier jupiter, veuillez lancer ce lien pour l'avoir directement par " Google Collab "
 https://colab.research.google.com/github/dayankoffi/TRADING-WITH-ML-IA/blob/main/Trade_ML_IA.ipynb#scrollTo=c2ec034e
 
 # TRADING-WITH-ML-IA
