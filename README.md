@@ -1,3 +1,5 @@
+https://colab.research.google.com/github/dayankoffi/TRADING-WITH-ML-IA/blob/main/Trade_ML_IA.ipynb#scrollTo=c2ec034e
+
 # TRADING-WITH-ML-IA
 Designed a trading strategy on the S&amp;P 500 combining macroeconomic factors, market sentiment analysis (VADER), and machine learning models (LightGBM) using python
 
